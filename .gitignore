@@ -1,0 +1,7 @@
+test/*
+metadata/*
+/train/*
+!/train/5d27075f03f801723c2e360f/F1_filtered
+indoor-location-navigation/*
+sample_submission.csv
+.vscode/*
